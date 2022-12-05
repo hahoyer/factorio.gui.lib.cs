@@ -1,0 +1,11 @@
+/intermediate/
+/out/
+/src/packages/
+/nih
+_ReSharper.*
+*.suo
+*.user
+obj/
+/src/*/bin
+/src/**/.vs/
+.sync
